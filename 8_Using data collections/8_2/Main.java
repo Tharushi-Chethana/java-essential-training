@@ -1,4 +1,4 @@
-//Using two-dimensional arrays
+// Using two-dimensional arrays
 
 public class Main {
     public static void main(String[] args) {

@@ -1,0 +1,4 @@
+addresses an object as either supper or subtype
+wites methods that accepts supertype as arguments
+passes instances of subtypes
+increase code flexibility and reusability
